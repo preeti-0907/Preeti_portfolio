@@ -1,0 +1,26 @@
+[
+    {
+      "title": "Hospital Management Project",
+      "imageSrc": "projects/project.png",
+      "description": "This project facilitates hospital management.",
+      "skills": ["MongoDB","React", "Express", "Node"],
+      
+      "source": "https://github.com/preeti-0907/Hospital_Management"
+    },
+    {
+      "title": "Movie Recommendation System",
+      "imageSrc": "projects/project.png",
+      "description": "This project gives movie recommendations.",
+      "skills": ["MongoDB","React", "Express", "Node", "Sass"],
+     
+      "source": "https://github.com/preeti-0907/Movie_Recommendation"
+    },
+    {
+      "title": "MERN-chat-app",
+      "imageSrc": "projects/project.png",
+      "description": "This is a chat interface developed using MERN stack",
+      "skills": ["MongoDB","React", "Express", "Node"],
+      
+      "source": "https://github.com/preeti-0907/MERN_chat_app"
+    }
+  ]

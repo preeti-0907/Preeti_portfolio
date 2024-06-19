@@ -1,0 +1,28 @@
+[
+    {
+      "role": "Head",
+      "organisation": "OpenGeest",
+      "startDate": "Jan, 2024",
+      "endDate": "ongoing",
+      "experiences": ["Organized sessions on Core Computer subjects", "Contributed to college website development"],
+      "imageSrc": "history/OpenGeest.png"
+    },
+    {
+      "role": "UI Designer",
+      "organisation": "E-Cell @NITJ",
+      "startDate": "Jan, 2023",
+      "endDate": "ongoing",
+      "experiences": ["Designed the logo, and posters for various events"],
+      "imageSrc": "history/e-cell.png"
+    },
+    {
+      "role": "Frontend Developer",
+      "organisation": "LADC @NITJ",
+      "startDate": "Jan, 2023",
+      "endDate": "ongoing",
+      "experiences": [
+        "Worked on updating the club's page on official college website"
+      ],
+      "imageSrc": "history/ladc.png"
+    }
+  ]
